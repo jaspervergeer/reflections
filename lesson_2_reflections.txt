@@ -9,3 +9,7 @@ the repository? What value do you think it offers?
 The staging area contains the files that are going to 
 be included in our commit. You can choose which files you
 want to commit.
+
+Just added this line for the purpose of learning git commit
+
+
