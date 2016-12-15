@@ -12,4 +12,8 @@ want to commit.
 
 Just added this line for the purpose of learning git commit
 
+How can you use the staging area to make sure you have one 
+commit per logical change?
 
+At the staging area you can place the file with the change 
+that you want to be included in the commit
