@@ -17,3 +17,11 @@ commit per logical change?
 
 At the staging area you can place the file with the change 
 that you want to be included in the commit
+
+What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+If you want to experiment with your code or when you want 
+to make a different version of your program
+
+
