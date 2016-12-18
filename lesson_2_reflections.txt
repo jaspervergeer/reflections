@@ -24,4 +24,22 @@ keeping your history organized? How would branches help?
 If you want to experiment with your code or when you want 
 to make a different version of your program
 
+How do the diagrams help you visualize the branch structure?
+
+You can see which commits are reachable through the parent
+structure.
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+You get a new branche with all the commits.
+
+What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+
+it's easier and faster is the merge can be done automatic
+but when there are conflicts it is better to have a person
+decide what code should stay
+
+
 
